@@ -1,0 +1,17 @@
+<<<README>>>
+To Run
+1. Change directory to location root directory of project
+2. Set Class path for RMI Registry 
+Ex. (Windows) Set CLASSPATH=[directory path]\compute.jar
+3. Start RMI Registry
+Ex. (Windows) Start rmiregistry 
+4. Start Server (In new command window)
+Java -Djava.rmi.server.codebase=file:.\compute.jar -Djava.rmi.server.hostname=localhost -Djava.security.policy=server.policy HW4_engine.ComputeEngine
+5. Start Client (In new command window)
+Java -Djava.rmi.server.codebase=file:.\compute.jar -Djava.security.policy=client.policy HW4_Client.Client localhost [integer < 100]
+(the integer input at the command line dictates the number of nodes created and the number of searched performed on each node. Please see the number of nodes less than 100)
+
+
+Thank you for your time and efforts.
+Regards,
+Addison Hartman
