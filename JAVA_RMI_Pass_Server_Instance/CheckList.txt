@@ -1,0 +1,14 @@
+
+Name - Addison Hartman
+Institute - Depaul University
+Course - CSC435 - Distributed Systems 1
+Instructor - Radha Jagadeesan, PhD
+
+
+
+Does it compile? YES
+Has it been tested?  YES
+Is the code all your own? YES
+Does it run on the local host?  YES
+Does it run when the two programs are on different hosts? YES
+How long did it take? [Writing + testing + debugging time in minutes] 4 hours
