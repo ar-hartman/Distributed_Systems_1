@@ -1,0 +1,23 @@
+
+Name - Addison Hartman
+Institute - Depaul University
+Course - CSC435 - Distributed Systems 1
+Instructor - Radha Jagadeesan, PhD
+
+
+
+program represents my work - Yes
+program compiles - Yes
+program is commented adequately - Yes
+program has been tested extensively - Yes
+program can connect to a server at an arbitrary port - Yes
+program can connect to a server that is not localhost - Yes
+program handles ranges of delay_times at server - Yes
+program tested against a port that server is not running - Yes
+program tested against an IP that server is not running - Yes
+
+
+
+
+Thank you for your time and efforts. Regards,
+Addison Hartman
