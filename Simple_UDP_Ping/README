@@ -1,0 +1,7 @@
+Instructions
+
+
+1. compile PingServer.java - javac week5\PingServer.java
+2. compile UDPClient. java - javac week5\UDPClient.java
+3. run PingServer          - java week5.PingServer [Port Number]
+4. in new cmd, run Client  - java week5.UDPClient [IP Address] [Port Number]
